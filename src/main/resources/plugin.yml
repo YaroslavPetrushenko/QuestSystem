@@ -1,0 +1,14 @@
+name: QuestSystem
+version: 1.0.0
+main: com.sableai.quests.QuestSystem
+description: Advanced Quest System for Bukkit servers
+api-version: '1.13'
+authors:
+  - SableAI
+
+commands:
+  quest:
+    description: Quest System
+    usage: /quest | /quest admin | /quest help
+    aliases:
+      - q
